@@ -1,4 +1,4 @@
 # Resources
 
-- [CloudNative_CECS](https://github.com/CloudNative-OracleAPAC/CloudNative_CECS)
-- [CloudNative_IntelligentBot](https://github.com/CloudNative-OracleAPAC/CloudNative_IntelligentBot)
+- [CloudNative_CECS](README-CECS.md)
+- [CloudNative_IntelligentBot](README-IBCS.md)
