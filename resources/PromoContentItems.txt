@@ -1,0 +1,197 @@
+Promo Content Items
+
+NOTE: After pasting Summary & Content text below into the Rich Text editor remove
+the formatting by selecting all the text and pressing the eraser icon in the toolbar.
+
+Name: Buy 1 Get 1 Free
+Description: Bring a friend, on us
+Image Banner (1440x720): Promo_Banner_1_1440x720.jpg
+Image Mobile Header (410x254): Promo_Mobile_Header_1_415x254.jpg
+Image Mobile Thumbnail (115x85): Promo_Mobile_Thumb_1_115x85.jpg
+
+Summary:
+We brew our special Aroma Roast coffee every day in our coffee shops. A
+dynamic cup; both deep and pleasantly bright. Smooth cream balanced
+with chocolate and dark cherry, with just a touch of caramel. Crafted from
+the major coffee growing regions, each element is roasted individually,
+then blended together after roasting.
+Purchase a cup of our special brew and get one free for a friend.
+
+Content:
+We brew our special Aroma Roast coffee every day in our coffee shops. A
+dynamic cup; both deep and pleasantly bright. Smooth cream balanced
+with chocolate and dark cherry, with just a touch of caramel. Crafted from
+the major coffee growing regions, each element is roasted individually,
+then blended together after roasting.
+Cras gravida lectus quis est gravida, ac vehicula lacus pharetra.
+Vestibulum pretium eu metus vitae semper. Etiam ante sem, pretium ac
+justo eu, porta imperdiet purus. Curabitur sem dui, rutrum et congue eu,
+fermentum at quam. Ut id turpis quis dolor interdum convallis et ac urna.
+Aliquam at sem placerat mauris fermentum tempor eu nec ex.
+Sed et commodo lectus, ac elementum enim. Quisque at scelerisque est.
+Sed tristique placerat finibus. In id mattis risus. Sed congue non est sed
+euismod. Aenean ipsum turpis, sodales tristique erat semper, luctus
+laoreet mauris. Suspendisse luctus finibus pretium. Nunc egestas egestas
+sapien ut viverra.
+TextPosition: Right
+TextColor: Light
+
+Name: Upgrade your iced coffee
+Description: Treat yourself to a large, on us
+Image Banner (1440x720): Promo_Banner_2_1440x720.jpg
+Image Mobile Header (410x254): Promo_Mobile_Header_2_415x254.jpg
+Image Mobile Thumbnail (115x85): Promo_Mobile_Thumb_2_115x85.jpg
+Summary:
+An iced coffee is a perfect delicious pick-me-up, especially on a hot
+afternoon. Carefully crafted and served over ice, our creamy iced coffee
+is made from our freshly ground and brewed espresso, combined with cold
+milk, to keep you energized the rest of the day.
+Stop in today and treat yourself to an iced coffee between 3-5pm for 15%
+off the regular price.
+Content:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit,
+purus et pretium porta, quam felis blandit nulla, non consequat lectus
+lacus sit amet est. Aenean ut rhoncus ex. Aliquam vitae risus vel risus
+porta viverra. Vivamus quis est sagittis, pretium orci at, interdum libero.
+Suspendisse ante nunc, accumsan id mi at, luctus interdum eros. Donec
+pellentesque, arcu a elementum efficitur, risus ligula hendrerit lorem, at
+porta velit lorem eget libero. Nulla ac euismod arcu. Praesent rhoncus sem
+sed consequat mollis. Morbi congue non felis nec commodo. Interdum et
+malesuada fames ac ante ipsum primis in faucibus.
+Cras gravida lectus quis est gravida, ac vehicula lacus pharetra.
+Vestibulum pretium eu metus vitae semper. Etiam ante sem, pretium ac
+justo eu, porta imperdiet purus. Curabitur sem dui, rutrum et congue eu,
+fermentum at quam. Ut id turpis quis dolor interdum convallis et ac urna.
+Aliquam at sem placerat mauris fermentum tempor eu nec ex.
+Sed et commodo lectus, ac elementum enim. Quisque at scelerisque est.
+Sed tristique placerat finibus. In id mattis risus. Sed congue non est sed
+euismod. Aenean ipsum turpis, sodales tristique erat semper, luctus
+laoreet mauris. Suspendisse luctus finibus pretium. Nunc egestas egestas
+sapien ut viverra.
+TextPosition: Left
+TextColor: Light
+
+Name: Half price snacks
+Description: Any bakery item half price
+Image Banner (1440x720): Promo_Banner_3_1440x720.jpg
+Image Mobile Header (410x254): Promo_Mobile_Header_3_415x254.jpg
+Page 39 of 42
+Image Mobile Thumbnail (115x85): Promo_Mobile_Thumb_3_115x85.jpg
+Summary:
+Our pastries are made from scratch and baked in-house daily. Come enjoy
+our croissants, scones, danishes and any other varieties. Satisfy your
+sweet tooth or enjoy something savory.
+Try one of our freshly baked items between 9-11am daily for 20% off the
+purchase price.
+Content:
+Our pastries are made from scratch and baked in-house daily. Come enjoy
+our croissants, scones, danishes and any other varieties. Satisfy your
+sweet tooth or enjoy something savory.
+Try one of our freshly baked items between 9-11am daily for 20% off the
+purchase price.
+TextPosition: Right
+TextColor: Light
+Name: Our new Aroma Roast
+Description: Always sustainable, always responsibly grown
+Image Banner (1440x720): Promo_Banner_4_1440x720.jpg
+Image Mobile Header (410x254): Promo_Mobile_Header_4_415x254.jpg
+Image Mobile Thumbnail (115x85): Promo_Mobile_Thumb_4_115x85.jpg
+Summary:
+We brew our special Aroma Roast coffee every day in our coffee shops. A
+dynamic cup; both deep and pleasantly bright. Smooth cream balanced
+with chocolate and dark cherry, with just a touch of caramel. Crafted from
+the major coffee growing regions, each element is roasted individually,
+then blended together after roasting.
+Try a cup of our special brew today and enjoy 10% off.
+Content:
+We brew our special Aroma Roast coffee every day in our coffee shops. A
+dynamic cup; both deep and pleasantly bright. Smooth cream balanced
+with chocolate and dark cherry, with just a touch of caramel. Crafted from
+the major coffee growing regions, each element is roasted individually,
+then blended together after roasting. A dynamic cup; both deep and
+pleasantly bright. Smooth cream balanced with chocolate and dark cherry,
+with just a touch of caramel. Crafted from the major coffee growing
+regions, each element is roasted individually, then blended together after
+roasting.
+Cras gravida lectus quis est gravida, ac vehicula lacus pharetra.
+Vestibulum pretium eu metus vitae semper. Etiam ante sem, pretium ac
+justo eu, porta imperdiet purus. Curabitur sem dui, rutrum et congue eu,
+Page 40 of 42
+fermentum at quam. Ut id turpis quis dolor interdum convallis et ac urna.
+Aliquam at sem placerat mauris fermentum tempor eu nec ex.
+Sed et commodo lectus, ac elementum enim. Quisque at scelerisque est.
+Sed tristique placerat finibus. In id mattis risus. Sed congue non est sed
+euismod. Aenean ipsum turpis, sodales tristique erat semper, luctus
+laoreet mauris. Suspendisse luctus finibus pretium. Nunc egestas egestas
+sapien ut viverra.
+TextPosition: Left
+TextColor: Light
+
+Name: Fresh brewed everyday
+Description: Enjoy the coffee of your life
+Image Banner (1440x720): Promo_Banner_5_1440x720.jpg
+Image Mobile Header (410x254): Promo_Mobile_Header_5_415x254.jpg
+Image Mobile Thumbnail (115x85): Promo_Mobile_Thumb_5_115x85.jpg
+Summary:
+We brew our special Aroma Roast coffee everyday in our coffee shops. A
+dynamic cup; both deep and pleasantly bright. Smooth cream balanced
+with chocolate and dark cherry, with just a touch of caramel. Crafted from
+the major coffee growing regions, each element is roasted individually,
+then blended together after roasting.
+Purchase a cup of our special brew between 3-5pm any day and receive
+15% off.
+Content:
+We brew our special Aroma Roast coffee everyday in our coffee shops. A
+dynamic cup; both deep and pleasantly bright. Smooth cream balanced
+with chocolate and dark cherry, with just a touch of caramel. Crafted from
+the major coffee growing regions, each element is roasted individually,
+then blended together after roasting. We brew our special Aroma Roast
+coffee everyday in our coffee shops.
+We brew our special Aroma Roast coffee everyday in our coffee shops. A
+dynamic cup; both deep and pleasantly bright. Smooth cream balanced
+with chocolate and dark cherry, with just a touch of caramel. Crafted from
+the major coffee growing regions, each element is roasted individually,
+then blended together after roasting. We brew our special Aroma Roast
+coffee everyday in our coffee shops. A dynamic cup; both deep and
+pleasantly bright. Smooth cream balanced with chocolate and dark cherry,
+with just a touch of caramel. Crafted from the major coffee growing
+regions, each element is roasted individually, then blended together after
+roasting.
+We brew our special Aroma Roast coffee everyday in our coffee shops. A
+dynamic cup; both deep and pleasantly bright. Smooth cream balanced
+with chocolate and dark cherry, with just a touch of caramel. Crafted from
+the major coffee growing regions, each element is roasted individually,
+then blended together after roasting. We brew our special Aroma Roast
+coffee everyday in our coffee shops. A dynamic cup; both deep and
+pleasantly bright. Smooth cream balanced with chocolate and dark cherry,
+with just a touch of caramel. Crafted from the major coffee growing
+regions, each element is roasted individually, then blended together after
+roasting.
+TextPosition: Right
+TextColor: Light
+
+Name: Free cake!
+Description: Free cake when coffee is ordered from your car
+Image Banner (1440x720): Promo_Banner_6_1440x720.jpg
+Image Mobile Header (410x254): Promo_Mobile_Header_6_415x254.jpg
+Image Mobile Thumbnail (115x85): Promo_Mobile_Thumb_6_115x85.jpg
+Summary:
+Café Supremo provides Convenient Online & Smartphone Ordering.
+It's easy to use and you'll always be the first to receive our best coupons
+from your car.
+Content:
+Cake is "free" at Café Supremo throughout the fleet as long as you
+purchase a coffee on the road. Make awesome combinations with a wide
+variety of toppings and fillings.
+Cras gravida lectus quis est gravida, ac vehicula lacus pharetra.
+Vestibulum pretium eu metus vitae semper. Etiam ante sem, pretium ac
+justo eu, porta imperdiet purus. Curabitur sem dui, rutrum et congue eu,
+fermentum at quam. Ut id turpis quis dolor interdum convallis et ac urna.
+Aliquam at sem placerat mauris fermentum tempor eu nec ex.
+Sed et commodo lectus, ac elementum enim. Quisque at scelerisque est.
+Sed tristique placerat finibus. In id mattis risus. Sed congue non est sed
+euismod. Aenean ipsum turpis, sodales tristique erat semper, luctus
+laoreet mauris. Suspendisse luctus finibus pretium. Nunc egestas egestas
+sapien ut viverra.
+TextPosition: Right
+TextColor: Light

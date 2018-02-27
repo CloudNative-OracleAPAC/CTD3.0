@@ -1,0 +1,80 @@
+Author Content Item
+NOTE: After pasting Bio text below into the Rich Text editor remove the formatting by
+selecting all the text and pressing the eraser icon in the toolbar.
+
+Name: Jamie Oliver
+Description: Senior Writer
+Image Header (1440x540): Profile_Header.jpg
+Image Avatar (312x312): Profile_Pic_LG_312px_1.png
+Bio:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue
+massa risus, id mollis orci consectetur et. Fusce velit nisi, mattis quis
+viverra et, accumsan ac mi. Phasellus in justo varius magna commodo
+mattis a vel mi. Duis risus ipsum, commodo et gravida id, tincidunt sit
+amet est. Phasellus vitae rutrum ex, ac placerat orci. Nam eu metus
+accumsan, bibendum dolor nec, sodales nibh. Nunc volutpat pharetra sem,
+et luctus arcu tincidunt a. Nam interdum, arcu ac tincidunt varius, est
+augue molestie metus, ut blandit orci nisl eu turpis. Morbi ac mollis quam.
+Aliquam faucibus pellentesque sem. Proin vel maximus libero. Donec eu
+leo at augue interdum mattis non mattis augue. Maecenas convallis, eros
+vitae dapibus ullamcorper, nibh libero porttitor quam, ut eleifend risus eros
+ut dolor.
+Etiam bibendum accumsan bibendum. Nullam nec enim non velit gravida
+viverra et in nibh. Donec tempus elit eu massa gravida consequat.
+Curabitur et metus sed ipsum imperdiet viverra ut vel eros. Morbi aliquet
+fermentum nisi quis consectetur. In viverra pharetra bibendum. Vivamus
+placerat, augue at mollis dapibus, sem elit gravida erat, nec feugiat diam
+urna at ante. Phasellus volutpat ornare urna et vehicula. Sed eu neque nec
+sapien gravida fermentum laoreet eget lorem.
+Nullam nulla neque, rhoncus in odio eu, ultricies commodo lorem.
+Pellentesque felis velit, feugiat sit amet facilisis vel, vulputate quis nibh.
+Fusce interdum tellus eget quam imperdiet lacinia. Vestibulum pulvinar mi
+vitae odio laoreet laoreet posuere vitae augue. Interdum et malesuada
+fames ac ante ipsum primis in faucibus. Vestibulum ornare justo sit amet
+placerat suscipit. Sed sed nibh vel massa consectetur sodales eu quis nisl.
+Nam rutrum at leo et bibendum. Duis ultrices mauris eget eros faucibus
+aliquet. Nulla tincidunt sem et enim posuere, sit amet condimentum nisi
+tristique. Ut erat ipsum, efficitur sed tincidunt sed, rutrum eget augue.
+Quisque volutpat, odio quis bibendum laoreet, ligula magna convallis est,
+et iaculis elit dui et est. Quisque felis risus, posuere nec nibh non, mattis
+egestas leo. Vestibulum ultricies pretium condimentum. Fusce imperdiet,
+mauris ut convallis tempor, nibh eros dignissim sapien, id pretium sapien
+mi eget ligula.
+
+Name: Janet Picard
+Description: Field Specialist
+Image Header (1440x540): Profile_Header.jpg
+Image Avatar (312x312): Profile_Pic_LG_312px_2.png
+Bio:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce hendrerit,
+sapien ac posuere hendrerit, lectus massa dapibus sapien, pharetra
+sodales diam magna id lorem. Nunc rhoncus tortor eu purus vulputate
+lobortis. Praesent eget leo non enim aliquam tempor. Integer in mauris
+gravida, tempor mi quis, eleifend erat. Duis quam diam, rutrum nec
+posuere in, vehicula sed urna. Maecenas tincidunt hendrerit lacinia.
+Maecenas mattis, arcu a mollis ullamcorper, ligula dui vestibulum tellus, at
+egestas enim ante sit amet lorem. Orci varius natoque penatibus et
+magnis dis parturient montes, nascetur ridiculus mus. Cras sagittis libero
+odio, eu pellentesque lorem aliquam eu. Donec quis molestie leo. Proin
+nibh lectus, lacinia nec ullamcorper at, eleifend vitae tortor. Mauris fringilla
+nulla eget tortor semper, rutrum malesuada arcu tristique. Nam eget arcu
+placerat, iaculis arcu quis, blandit mauris. Nunc blandit imperdiet turpis et
+scelerisque.
+Sed placerat odio at orci facilisis, et eleifend nibh tristique. Cras erat
+ipsum, mollis tempus tempor a, venenatis in felis. Integer ultricies nulla at
+felis pharetra congue. Nam porta pulvinar purus id fringilla. Nulla placerat
+ullamcorper neque, consectetur euismod risus scelerisque euismod. Nam
+sodales in nulla efficitur dictum. Donec maximus hendrerit tincidunt. Cras
+feugiat nisl id congue ultrices. Donec eros sapien, tempus non dui vel,
+vestibulum congue enim.
+Pellentesque porttitor felis in accumsan accumsan. Suspendisse pretium
+nisi at elit pulvinar malesuada. Cras a condimentum libero. Vestibulum
+gravida eros a placerat fermentum. Vestibulum vehicula elit ut diam
+dictum, eu rutrum est vestibulum. Phasellus sit amet imperdiet dui, in
+dapibus est. Sed et euismod justo. In tincidunt gravida massa, commodo
+tincidunt lorem pharetra nec. Vestibulum a ligula mi. Phasellus tempor nisl
+posuere risus iaculis malesuada. Vivamus viverra dui ut feugiat tincidunt.
+9.3. Blog Content Item
+NOTE: After pasting Content text below into the Rich Text editor, remove the
+formatting by selecting all the text and pressing the remove format icon in the
+toolbar.

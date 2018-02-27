@@ -1,0 +1,332 @@
+Blogs Content Items
+
+Name: The Perfect Coffee
+Description: What makes the perfect coffee
+Author: Jamie Oliver
+Category: DRINKS
+
+Content:
+Perfect coffee pleasure, is no accident: it must be deliberately created,
+consistently and without compromise, cup after cup, by living our
+principles.
+
+Along the complex path from bean to cup there are quicker ways of doing
+things than we do, and there are certainly cheaper ways. But there is no
+better way. Knowing a single faulty bean can taint a whole batch, we take
+control of quality down to the very last one – with a deliberate dedication
+to getting the details right at every step of the way.
+
+Image Header (1440x540): Blog_1_Header_1440x540px.jpg
+Image Ad (600x266): Blog_1_Ad_Image_600x266px.jpg
+Image Ad Small (307x150): Blog_1_sm_Ad_Image_307x150px.jpg
+Image Thumbnail (400x400): Blog_1_Thumb_400px.jpg
+TextPosition: Right
+TextColor: Light
+
+Name: Our Pastries
+Description: Get the perfect pastries to go with your prefect coffee
+Author: Janet Picard
+Category: RECIPES
+
+Content:
+Our pastries are made from scratch and baked in-house daily. Come enjoy
+our croissants, scones, danishes and any other varieties. Satisfy your
+sweet tooth or enjoy something savory. Our pastries are made from
+scratch and baked in-house daily. Come enjoy our croissants, scones,
+danishes and any other varieties. Satisfy your sweet tooth or enjoy
+something savory.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
+sodales enim quis tortor euismod, eu egestas eros rhoncus. Vestibulum ac
+dui consequat, cursus velit eu, euismod felis. Ut tincidunt commodo nunc
+ut maximus.
+Curabitur congue mauris in neque cursus sagittis. Donec porta feugiat
+cursus. Aliquam elementum vehicula magna. Lorem ipsum dolor sit amet,
+consectetur adipiscing elit. Mauris a tincidunt erat, vulputate rhoncus ex.
+In ultricies diam eu elit faucibus, eget tempus metus pulvinar. Sed et
+tempus arcu, a porttitor nibh.
+
+Image Header (1440x540): Blog_2_Header_1440x540px.jpg
+Image Ad (600x266): Blog_2_Ad_Image_600x266px.jpg
+Image Ad Small (307x150): Blog_2_sm_Ad_Image_307x150px.jpg
+Image Thumbnail (400x400): Blog_2_Thumb_400px.jpg
+TextPosition: Center
+TextColor: Light
+
+Name: Power of Coffee
+Description: Giving back to the community
+Author: Janet Picard
+Category: PEOPLE
+
+Content:
+Our annual "Power of Coffee" fundraiser raised over $1 million to help
+families in need. With your donations last month, and Cafe Supremo's
+dollar for dollar matching, we hit our highest numbers ever! Thank you
+for being a part of our community and giving back to our community.
+Our annual "Power of Coffee" fundraiser raised over $1 million to help
+families in need. With your donations last month, and Cafe Supremo's
+dollar for dollar matching, we hit our highest numbers ever! Thank you
+for being a part of our community and giving back to our community.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
+sodales enim quis tortor euismod, eu egestas eros rhoncus. Vestibulum ac
+dui consequat, cursus velit eu, euismod felis. Ut tincidunt commodo nunc
+ut maximus.
+Curabitur congue mauris in neque cursus sagittis. Donec porta feugiat
+cursus. Aliquam elementum vehicula magna. Lorem ipsum dolor sit amet,
+consectetur adipiscing elit. Mauris a tincidunt erat, vulputate rhoncus ex.
+In ultricies diam eu elit faucibus, eget tempus metus pulvinar. Sed et
+tempus arcu, a porttitor nibh.
+
+Image Header (1440x540): Blog_3_Header_1440x540px.jpg
+Image Ad (600x266): Blog_3_Ad_Image_600x266px.jpg
+Image Ad Small (307x150): Blog_3_sm_Ad_Image_307x150px.jpg
+Image Thumbnail (400x400): Blog_3_Thumb_400px.jpg
+TextPosition: Left
+TextColor: Light
+
+Name: Pouring Just The Right Cup
+Description: Getting the best look from your espresso
+Author: Jamie Oliver
+Category: HOW TO
+Content:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
+sodales enim quis tortor euismod, eu egestas eros rhoncus. Vestibulum ac
+dui consequat, cursus velit eu, euismod felis. Ut tincidunt commodo nunc
+ut maximus. Phasellus ultricies, eros in pellentesque pulvinar, felis felis
+molestie erat, sed pellentesque neque ipsum nec dui. Quisque eleifend
+tortor turpis, vitae efficitur neque mattis nec. Etiam suscipit tincidunt
+viverra. Nullam aliquam faucibus gravida. Praesent mollis eu enim sed
+fermentum. Mauris lorem justo, varius quis purus at, pulvinar sodales
+dolor. Etiam nec nulla ipsum. Vivamus porta, magna tincidunt luctus
+tempus, odio leo hendrerit leo, nec bibendum orci eros nec est.
+Curabitur congue mauris in neque cursus sagittis. Donec porta feugiat
+cursus. Aliquam elementum vehicula magna. Lorem ipsum dolor sit amet,
+consectetur adipiscing elit. Mauris a tincidunt erat, vulputate rhoncus ex.
+In ultricies diam eu elit faucibus, eget tempus metus pulvinar. Sed et
+tempus arcu, a porttitor nibh.
+
+Image Header (1440x540): Blog_4_Header_1440x540px.jpg
+Image Ad (600x266): Blog_4_Ad_Image_600x266px.jpg
+Image Ad Small (307x150): Blog_4_sm_Ad_Image_307x150px.jpg
+Image Thumbnail (400x400): Blog_4_Thumb_400px.jpg
+TextPosition: Right
+TextColor: Light
+
+Name: Cake Batter The Right Way
+Description: Step by step guide for the perfect consistency
+Author: Janet Picard
+Category: RECIPES
+Content:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus eu
+purus ac maximus. Morbi quis dignissim nisl. Nullam maximus urna sed
+enim eleifend efficitur. Suspendisse sagittis nulla egestas ligula placerat
+consequat. Morbi eget odio quis lacus laoreet lacinia. Cras vel mollis arcu,
+et ultricies enim. Sed at mi sed ante blandit tincidunt vitae nec ante. Proin
+congue id leo sed pellentesque. Nam blandit sollicitudin enim, sed
+venenatis mi sagittis vel. Maecenas gravida feugiat purus, et bibendum
+sem. Proin diam libero, placerat at risus ut, volutpat posuere turpis.
+Aliquam in mauris mauris. Curabitur vehicula diam at risus blandit, ut
+elementum enim dictum. In ac interdum turpis.
+Praesent eleifend tincidunt convallis. Pellentesque rhoncus volutpat ex, sed
+posuere mi mattis ut. Nulla non nibh nunc. Quisque mauris urna, efficitur
+ac hendrerit sit amet, viverra nec erat. Aliquam erat volutpat. Donec risus
+sem, condimentum sed nulla sed, maximus porttitor risus. Etiam neque
+neque, molestie sit amet sem nec, efficitur venenatis lorem. Etiam
+pellentesque mi eu vehicula finibus.
+Proin ac enim non neque pellentesque bibendum et eu sem. Suspendisse a
+purus ut tortor scelerisque pharetra. Nullam maximus tempor vulputate.
+Vivamus malesuada, libero vel placerat euismod, magna lacus mattis
+lectus, dignissim pellentesque massa risus eu mauris. Vivamus scelerisque
+nunc diam, eu tristique metus viverra at. Fusce nunc tellus, congue quis
+dictum eget, malesuada nec tellus. Curabitur pretium consectetur lacinia.
+Fusce et metus mauris. Class aptent taciti sociosqu ad litora torquent per
+conubia nostra, per inceptos himenaeos. Fusce fermentum at mauris sed
+rhoncus. Aenean ut accumsan quam. Duis velit leo, tempor sit amet eros
+sed, aliquam sodales lorem.
+Mauris eu neque vitae odio eleifend bibendum. Morbi bibendum aliquam
+lectus at congue. Nunc vulputate tempor augue eu suscipit. Vivamus enim
+diam, vehicula eget justo non, elementum consequat nibh. Ut lectus odio,
+lacinia eget nulla vel, pharetra laoreet arcu. Sed in lectus vitae orci auctor
+luctus vel non risus. Morbi non turpis leo. Nunc tempus augue eget
+semper tristique. Phasellus faucibus placerat massa non tincidunt.
+
+Image Header (1440x540): Blog_5_Header_1440x540px.jpg
+Image Ad (600x266): Blog_5_Ad_Image_600x266px.jpg
+Image Ad Small (307x150): Blog_5_sm_Ad_Image_307x150px.jpg
+Image Thumbnail (400x400): Blog_5_Thumb_400px.jpg
+TextPosition: Right
+TextColor: Dark
+
+Name: Create Beautiful Latte Art!
+Description: Make your coffee look as good as it tastes
+Author: Jamie Oliver
+Category: HOW TO
+Content:
+With a little practice, you can too can create designs with steamed milk.
+For National Coffee Day, we spoke to Cafe Supremo's barista of the month
+Kirk Walker who has a lot of latte experience. Here are Kirk's own 3
+simple steps to how to make three classic latte recipes. First, start with
+the basics with the foam heart. For intermediates, try a rabbit shape for
+your favorite animal lover. And for experts, the beautiful and elegant
+Rosetta design.
+With a little practice, you can too can create designs with steamed milk.
+For National Coffee Day, we spoke to Cafe Supremo's barista of the month
+Kirk Walker who has a lot of latte experience. Here are Kirk's own 3
+simple steps to how to make three classic latte recipes. First, start with
+the basics with the foam heart. For intermediates, try a rabbit shape for
+your favorite animal lover. And for experts, the beautiful and elegant
+Rosetta design.
+With a little practice, you can too can create designs with steamed milk.
+For National Coffee Day, we spoke to Cafe Supremo's barista of the month
+Kirk Walker who has a lot of latte experience. Here are Kirk's own 3
+simple steps to how to make three classic latte recipes. First, start with
+the basics with the foam heart. For intermediates, try a rabbit shape for
+your favorite animal lover. And for experts, the beautiful and elegant
+Rosetta design.
+With a little practice, you can too can create designs with steamed milk.
+For National Coffee Day, we spoke to Cafe Supremo's barista of the month
+Kirk Walker who has a lot of latte experience. Here are Kirk's own 3
+simple steps to how to make three classic latte recipes. First, start with
+the basics with the foam heart. For intermediates, try a rabbit shape for
+your favorite animal lover. And for experts, the beautiful and elegant
+Rosetta design.
+
+Image Header (1440x540): Blog_6_Header_1440x540px.jpg
+Image Ad (600x266): Blog_6_Ad_Image_600x266px.jpg
+Image Ad Small (307x150): Blog_6_sm_Ad_Image_307x150px.jpg
+Image Thumbnail (400x400): Blog_6_Thumb_400px.jpg
+TextPosition: Center
+TextColor: Light
+
+Name: Meet our Barista of the Month
+Description: Ask him anything
+Author: Jamie Oliver
+Category: RECIPES
+Content:
+Meet Kirk, our barista of the month who works out of our Seattle Madison
+Park coffeeshop. His love of coffee started early, and he wants to share
+everything he knows with you. Learn anything from designing latte art to
+perfecting your coffee brew. Find out what his favorite coffee and ice
+cream pairing is. Visit Kirk today our flagship Cafe Supremo coffeeshop in
+Seattle and ask him anything.
+Meet Kirk, our barista of the month who works out of our Seattle Madison
+Park coffeeshop. His love of coffee started early, and he wants to share
+everything he knows with you. Learn anything from designing latte art to
+perfecting your coffee brew. Find out what his favorite coffee and ice
+cream pairing is. Visit Kirk today our flagship Cafe Supremo coffeeshop in
+Seattle and ask him anything.
+Meet Kirk, our barista of the month who works out of our Seattle Madison
+Park coffeeshop. His love of coffee started early, and he wants to share
+everything he knows with you. Learn anything from designing latte art to
+perfecting your coffee brew. Find out what his favorite coffee and ice
+cream pairing is. Visit Kirk today our flagship Cafe Supremo coffeeshop in
+Seattle and ask him anything.
+
+Image Header (1440x540): Blog_7_Header_1440x540px.jpg
+Image Ad (600x266): Blog_7_Ad_Image_600x266px.jpg
+Image Ad Small (307x150): Blog_7_sm_Ad_Image_307x150px.jpg
+Image Thumbnail (400x400): Blog_7_Thumb_400px.jpg
+TextPosition: Center
+TextColor: Light
+
+Name: Iced Coffee
+Description: Creating iced coffee the right way
+Author: Janet Picard
+Category: DRINKS
+Content:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt
+dignissim posuere. Ut et ultricies libero. Nulla eget cursus lorem. Duis
+accumsan sapien mauris, ut facilisis nulla dignissim eu. Praesent vitae erat
+imperdiet ante accumsan finibus. Vestibulum ac ligula tristique, luctus orci
+sit amet, placerat velit. Fusce id orci sodales, euismod lacus eget, aliquam
+justo. Nulla ultrices ligula neque, eget efficitur enim pharetra non. Sed
+facilisis imperdiet elit ac suscipit.
+Proin ut enim facilisis, ullamcorper velit non, placerat mi. Curabitur egestas
+tellus tristique ligula egestas, ut placerat ex gravida. Nulla pellentesque
+eros eget tempor pharetra. Aenean orci nibh, suscipit ac tempor eu,
+pellentesque porttitor orci. Suspendisse potenti. Cras elementum vehicula
+sapien, vel gravida ipsum hendrerit nec. Nunc bibendum libero porttitor,
+vehicula nulla eu, vestibulum elit. Maecenas semper dolor sit amet ex
+mollis elementum. Nullam semper consequat diam, non dignissim justo
+placerat vel. Sed diam purus, venenatis id scelerisque at, vestibulum sit
+amet enim.
+Aliquam pellentesque urna ac mauris viverra, nec mollis magna ornare.
+Morbi varius varius nunc nec imperdiet. Vivamus sapien urna, hendrerit et
+est sed, gravida facilisis nunc. Praesent eget orci nisl. Ut venenatis
+vestibulum vulputate. Quisque pretium scelerisque magna. Vivamus
+sodales ipsum ex, vitae sagittis mi scelerisque eu. Mauris sit amet
+pellentesque leo, sed molestie felis. Proin eu cursus mauris. Integer
+consectetur tincidunt nibh sed tempor. Maecenas a lectus finibus, tristique
+leo vulputate, feugiat tellus. Phasellus euismod et leo sed consectetur.
+Aenean facilisis eget odio et iaculis.
+
+Image Header (1440x540): Blog_8_Header_1440x540px.jpg
+Image Ad (600x266): Blog_8_Ad_Image_600x266px.jpg
+Image Ad Small (307x150): Blog_8_sm_Ad_Image_307x150px.jpg
+Image Thumbnail (400x400): Blog_8_Thumb_400px.jpg
+TextPosition: Left
+TextColor: Light
+
+Name: Sustainable Coffee
+Description: Good for the heart and soul
+Author: Jamie Oliver
+Category: DRINKS
+Content:
+Our coffee comes from South American regions where we have a strong
+commitment to supporting the farming communities that supply our
+coffee, tea and cocoa, and other agricultural products. Experience our
+famous Aroma coffee roast today. Our coffee comes from South American
+regions where we have a strong commitment to supporting the farming
+communities that supply our coffee, tea and cocoa, and other agricultural
+products. Experience our famous Aroma coffee roast today.
+Our coffee comes from South American regions where we have a strong
+commitment to supporting the farming communities that supply our
+coffee, tea and cocoa, and other agricultural products. Experience our
+famous Aroma coffee roast today. Our coffee comes from South American
+regions where we have a strong commitment to supporting the farming
+communities that supply our coffee, tea and cocoa, and other agricultural
+products.
+Our coffee comes from South American regions where we have a strong
+commitment to supporting the farming communities that supply our
+coffee, tea and cocoa, and other agricultural products. Experience our
+famous Aroma coffee roast today. Our coffee comes from South American
+regions where we have a strong commitment to supporting the farming
+communities that supply our coffee, tea and cocoa, and other agricultural
+products. Experience our famous Aroma coffee roast today.
+
+Image Header (1440x540): Blog_9_Header_1440x540px.jpg
+Image Ad (600x266): Blog_9_Ad_Image_600x266px.jpg
+Image Ad Small (307x150): Blog_9_sm_Ad_Image_307x150px.jpg
+Image Thumbnail (400x400): Blog_9_Thumb_400px.jpg
+TextPosition: Center
+TextColor: Light
+
+Name: The Perfect Meringue
+Description: Make the sweetest lightest meringue ever
+Author: Janet Picard
+Category: RECIPES
+Content:
+Learn to make the perfect egg white meringue. Imagine blowing air into a
+balloon while whipping. That's the exact idea we want to convey when
+beating the egg whites, causing the whites to unfold and form films that
+trap the air bubbles. A perfect egg white meringue is really nothing but a
+big collection of foamy bubbles. Test out our tried-and-true recipe today
+and see what you think.
+Learn to make the perfect egg white meringue. Imagine blowing air into a
+balloon while whipping. That's the exact idea we want to convey when
+beating the egg whites, causing the whites to unfold and form films that
+trap the air bubbles. A perfect egg white meringue is really nothing but a
+big collection of foamy bubbles. Test out our tried-and-true recipe today
+and see what you think.
+Learn to make the perfect egg white meringue. Imagine blowing air into a
+balloon while whipping. That's the exact idea we want to convey when
+beating the egg whites, causing the whites to unfold and form films that
+trap the air bubbles. A perfect egg white meringue is really nothing but a
+big collection of foamy bubbles. Test out our tried-and-true recipe today
+and see what you think.
+Image Header (1440x540): Blog_10_Header_1440x540px.jpg
+Image Ad (600x266): Blog_10_Ad_Image_600x266px.jpg
+Image Ad Small (307x150): Blog_10_sm_Ad_Image_307x150px.jpg
+Image Thumbnail (400x400): Blog_10_Thumb_400px.jpg
+TextPosition: Left
+TextColor: Light
+

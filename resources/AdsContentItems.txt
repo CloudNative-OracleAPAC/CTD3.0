@@ -1,0 +1,34 @@
+Ad_2017 Content Items
+
+Name: NOW, ALL YOU NEED IS THE SPOON
+Description: Cups, spoons and any other accessories you need
+Image Banner (1440x600): Ad_Banner_1_1440x600.jpg
+Image Side (280x478): Ad_Banner_1_280x478.jpg
+CommerceURL: https://ccstore-z5ga.oracleoutsourcing.com/oraclemug/
+product/Mug123
+TextPosition: Left
+TextColor: Dark
+
+Name: LOVE AT FIRST ROAST
+Description: Get this month imports from around the globe in all of your favorite flavors
+Image Banner (1440x600): Ad_Banner_2_1440x600.jpg
+Image Side (280x478): Ad_Banner_2_280x478.jpg
+CommerceURL: https://ccstore-z5ga.oracleoutsourcing.com/aroma-beans/product/1234
+TextPosition: Right
+TextColor: Light
+
+Name: A LITTLE PARTY IN EVERY POD
+Description: Try something special, with that special someone
+Image Banner (1440x600): Ad_Banner_3_1440x600.jpg
+Image Side (280x478): Ad_Banner_3_280x478.jpg
+CommerceURL: https://ccstore-z5ga.oracleoutsourcing.com/coffee-pods/category/2468
+TextPosition: Left
+TextColor: Dark
+
+Name: SUPREMO
+Description: Bring the feeling home with you, today
+Image Banner (1440x600): Ad_Banner_4_1440x600.jpg
+Image Side (280x478): Ad_Banner_4_280x478.jpg
+CommerceURL: https://ccstore-z5ga.oracleoutsourcing.com
+TextPosition: Right
+TextColor: Dark
