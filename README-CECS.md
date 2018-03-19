@@ -39,7 +39,6 @@ _Manage content from your enterprise applications, provide content services for 
 ### Prerequisites ###
 - Oracle Public Cloud Service account including Content and Experience Cloud
 
-- [Access Info](https://oradocs-corp.documents.us2.oraclecloud.com/documents/link/LDF23874AB27FF062CA9B8C1F6C3FF17C1177A968060/fileview/D2FBB7D2397037E78D50ADBBF6C3FF17C1177A968060/_Access_CECS_Hands_ON.xlsx) (Skip this if you have registered your own GSE Content & Experience Cloud instance)
 
 # Lab Exercise: #
 
