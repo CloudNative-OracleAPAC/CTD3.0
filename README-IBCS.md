@@ -40,6 +40,4 @@ This workshop will walk you introduce you to the CafeSupremo Bot, and then walk 
 2. [OBotML dialogue flow markup for ordering Food](Lab_Files/DialogYAML.zip)
 3. [Custom Component Template](Lab_Files/Custom-Component-Template.zip)
 
-# Appendix #
-#### Configure Stand-Alone Oracle Intelligent Bots Platform [(Virtual Box Instructions)](appendix.md) ####
 
