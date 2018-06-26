@@ -18,8 +18,11 @@ Microsite is another common touchpoint Enterprise build for promoting new servic
 #### Oracle Process Cloud Service
 Process improves customer experiences and key drivers for digital transformation. Oracle Process Cloud can convert idea to process control within minutes based on the design builder, form builder and process automation capability.  In this lab, the participant has the chance to build a quick process to manage the document approval as the first trial of building process and automation. 
 
+#### Oracle Visual Builder Cloud Service
+Oracle Visual Builder Cloud Service is a cloud-based software development Platform as a Service (PaaS) and a hosted environment for your application development infrastructure. It provides an open-source standards-based solution to develop, collaborate on, and deploy applications within Oracle Cloud.
 
-# Resources
+# Lab Resources
 
 - [Section A: CloudNative_IntelligentBot](README-IBCS.md)
 - [Section B: CloudNative_CECS](README-CECS.md)
+- [Section C: CloudNative_VBCS](https://docs.oracle.com/en/cloud/paas/app-builder-cloud/tutorials.html)
