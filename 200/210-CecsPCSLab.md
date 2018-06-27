@@ -8,17 +8,17 @@ In this lab we will look into how we can configure a process form into a Experie
 
 ### 2.	Import Sample Process ###
 
-1. Login to your PCS instance
+1. Login to your Process Cloud instance
 
 ``https://process-gseXXXXXXX.process.us2.oraclecloud.com/bpm/workspace``
 
->Note: Use bala.gupta user and the provided password to login
+>Note: Use your username and the password to login
 
-<img src="images/210-1-1.png" width="100%"/>
+<!-- <img src="images/210-1-1.png" width="100%"/> -->
 
 2. Click on **Develop Process**
 
-<img src="images/210-1-2.png" width="25%"/>
+<!-- <img src="images/210-1-2.png" width="25%"/> -->
 <img src="images/210-1-2a.png" width="100%"/>
 
 3. On the left menu click ``Create > Import > Import Application``
