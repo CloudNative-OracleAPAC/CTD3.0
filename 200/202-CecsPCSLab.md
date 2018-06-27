@@ -4,7 +4,7 @@
 
 ### 4.	Setting the workflow in CEC ###
 
-Open your preferred web browser and navigate to your Oracle CEC site (https://documents-gseXXXXXXXX.documents.us2.oraclecloud.com/documents)
+Open your preferred web browser and navigate to your Oracle CEC site (eg. https://documents-gseXXXXXXXX.documents.us2.oraclecloud.com/documents)
  
 <img src="images/2.4.1.png" width="50%"/>
  
@@ -20,7 +20,7 @@ In the previous lab we have created a Custom Property **‘userXX_DocumentApprov
 
 2.	Select ``Share`` from the upper menu
 
-3.	Share your folder with **Bala.Gupta** and give this user ``contributor`` rights
+3.	Share your folder with **Your Colleague ID** and give this user ``contributor`` rights
 
 <img src="images/2.4.3.png" width="50%"/>
 
@@ -36,7 +36,7 @@ In the previous lab we have created a Custom Property **‘userXX_DocumentApprov
 
 9.	Set the toggle field to **“Initiate Process on Document Arrival”**
 
-10.	Select the Process Name ``xx_Production:Document_Workflow_-_from_Chris 1.0.`` This is how you are linking your folder to the process you want to trigger upon arrival of a document.
+10.	Select the Process Name ``xx_Production:Demo_Document_Workflow 0.1.`` This is how you are linking your folder to the process you want to trigger upon arrival of a document.
 
 11.	Select **Save**. Reopen the properties to make sure that your settings have been taken into account. It should look like this:
 
