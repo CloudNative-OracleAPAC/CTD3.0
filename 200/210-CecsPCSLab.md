@@ -19,7 +19,8 @@ In this lab we will look into how we can configure a process form into a Experie
 2. Click on **Develop Process**
 
 <!-- <img src="images/210-1-2.png" width="25%"/> -->
-<img src="images/210-1-2a.png" width="100%"/>
+<!-- <img src="images/210-1-2a.png" width="100%"/> -->
+<img src="Create_Import_Process.png" width="100%"/>
 
 3. On the left menu click ``Create > Import > Import Application``
 
