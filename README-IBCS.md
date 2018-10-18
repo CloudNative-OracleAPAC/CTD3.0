@@ -25,7 +25,10 @@ Today’s workshop revolves around the Digital Experience functionality of a fic
 
 While Café Supremo has a Mobile App, which is used by their most loyal customers, the marketing department is aware that new or prospective customers may not have downloaded the app (or even found it in the many hundreds of thousands of apps in the App-Stores).  As such, they are looking to expand their reach to prospective customers through the use of the various Social Chat Channels, in particular Facebook Messenger.
 
-This workshop will walk you introduce you to the CafeSupremo Bot, and then walk you through the various components used to build it and subsequently expand its available functionality. 
+This workshop will walk you introduce you to the CafeSupremo Bot, and then walk you through the various components used to build it and subsequently expand its available functionality.
+
+# Pre-Requisite #
+This Cloud Test Drive Workshop is designed to work with your own Autonomous Cloud Subscription. If you have Activated your account, but have not yet provisioned your Digital Assistant / Chatbot environment, please review the [Provisioning Steps](Provisioning/Provisioning.md). 
 
 # Lab Exercise: #
 
@@ -36,8 +39,10 @@ This workshop will walk you introduce you to the CafeSupremo Bot, and then walk 
 #### Lab 5: (OPTIONAL) Exposing the Bot in Facebook [(Start Lab)](500-IB.md) ####
 
 ## Lab Files ##
+
 1. [Intents, Entities and Utterances for FoodMenu Bot](Lab_Files/Intents-And-Entities.zip)
 2. [OBotML dialogue flow markup for ordering Food](Lab_Files/DialogYAML.zip)
 3. [Custom Component Template](Lab_Files/Custom-Component-Template.zip)
+
 
 
