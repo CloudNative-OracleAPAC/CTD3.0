@@ -37,4 +37,4 @@ Once your account is activated simply follow the steps below to provision the Au
 <img src="Images/Provision_AMCE_8.png" width="100%"/>
 
 
-<< [Back to Autonomous Digital Assistant Test Drive Home](../README.md)
+<< [Back to Digital Assistant Test Drive Home](../README-IBCS.md)

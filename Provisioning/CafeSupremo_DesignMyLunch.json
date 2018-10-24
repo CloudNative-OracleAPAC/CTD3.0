@@ -1,0 +1,1562 @@
+{
+    "actionList": [
+        {
+            "elementTrigger": "ChkBox_Cheese",
+            "enabled": true,
+            "eventTrigger": "valueChanged",
+            "ids": [
+                "Choose_Cheese_Type"
+            ],
+            "trigger": "value",
+            "triggerValue": "true",
+            "type": "showElements"
+        },
+        {
+            "elementTrigger": "ChkBox_Meat",
+            "enabled": true,
+            "eventTrigger": "valueChanged",
+            "ids": [
+                "Choose_Meat_Type"
+            ],
+            "trigger": "value",
+            "triggerValue": "true",
+            "type": "showElements"
+        },
+        {
+            "elementTrigger": "ChkBox_Cheese",
+            "enabled": true,
+            "eventTrigger": "valueChanged",
+            "ids": [
+                "Choose_Cheese_Type"
+            ],
+            "trigger": "value",
+            "triggerValue": "false",
+            "type": "hideElements"
+        },
+        {
+            "elementTrigger": "ChkBox_Meat",
+            "enabled": true,
+            "eventTrigger": "valueChanged",
+            "ids": [
+                "Choose_Meat_Type"
+            ],
+            "trigger": "value",
+            "triggerValue": "false",
+            "type": "hideElements"
+        },
+        {
+            "elementTrigger": "ChkBox_Meat",
+            "enabled": true,
+            "eventTrigger": "valueChanged",
+            "ids": [
+                "Choose_Meat_Type"
+            ],
+            "trigger": "value",
+            "triggerValue": "false",
+            "type": "resetElements"
+        },
+        {
+            "elementTrigger": "ChooseLunchType",
+            "enabled": true,
+            "eventTrigger": "valueChanged",
+            "ids": [
+                "Submit_Button"
+            ],
+            "trigger": "change",
+            "type": "enableElements"
+        },
+        {
+            "elementTrigger": "Cancel_Button",
+            "enabled": true,
+            "eventTrigger": "valueChanged",
+            "parameters": [
+                {
+                    "name": "ORDER_ACTION",
+                    "value": "CANCEL"
+                }
+            ],
+            "trigger": "always",
+            "type": "exitToBot"
+        },
+        {
+            "elementTrigger": "Cancel_Button",
+            "enabled": true,
+            "eventTrigger": "valueChanged",
+            "pane": "Cancel_Order_Pane",
+            "trigger": "always",
+            "type": "activatePane"
+        },
+        {
+            "elementTrigger": "ChkBox_Salad",
+            "enabled": true,
+            "eventTrigger": "valueChanged",
+            "ids": [
+                "Choose_Salad_Options"
+            ],
+            "trigger": "value",
+            "triggerValue": "true",
+            "type": "showElements"
+        },
+        {
+            "elementTrigger": "ChkBox_Salad",
+            "enabled": true,
+            "eventTrigger": "valueChanged",
+            "ids": [
+                "Choose_Salad_Options"
+            ],
+            "trigger": "value",
+            "triggerValue": "false",
+            "type": "hideElements"
+        },
+        {
+            "elementTrigger": "ChkBox_Salad",
+            "enabled": true,
+            "eventTrigger": "valueChanged",
+            "ids": [
+                "Choose_Salad_Options"
+            ],
+            "trigger": "value",
+            "triggerValue": "false",
+            "type": "resetElements"
+        },
+        {
+            "elementTrigger": "Submit_Button",
+            "enabled": true,
+            "eventTrigger": "valueChanged",
+            "parameters": [
+                {
+                    "name": "ORDER_ACTION",
+                    "value": "SUCCESS"
+                },
+                {
+                    "name": "SANDWICH_TYPE",
+                    "value": "{ChooseLunchType}"
+                },
+                {
+                    "name": "CHEESE",
+                    "value": "{Choose_Cheese_Type}"
+                },
+                {
+                    "name": "MEAT",
+                    "value": "{Choose_Meat_Type}"
+                },
+                {
+                    "name": "SALAD",
+                    "value": "{Choose_Salad_Options}"
+                },
+                {
+                    "name": "DRESSING",
+                    "value": "{Choose_Dressing_Type}"
+                }
+            ],
+            "trigger": "always",
+            "type": "exitToBot"
+        },
+        {
+            "elementTrigger": "Submit_Button",
+            "enabled": true,
+            "eventTrigger": "valueChanged",
+            "pane": "Choices_Made_Pane",
+            "trigger": "always",
+            "type": "activatePane"
+        }
+    ],
+    "chatbox": {
+        "active": true,
+        "apiId": "CafeSupremo__Design_My_Lunch",
+        "build": 1,
+        "builder": {
+            "editCount": 10
+        },
+        "id": 26,
+        "tagList": [
+        ],
+        "trashed": false
+    },
+    "displayList": [
+        {
+            "allowDismiss": false,
+            "elementList": [
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "src": "/upload/s3?k=public%2FO49%2Fschema%2Fy1L6%2FcEqB%2FCrEkQpnAuKhbqx9v8lDCt-SMQFG7rM_34Ro-JPZJCzm--G7Gbt64spYOzvQC70IHpzsdx5escBjPBg%3D%3D%2FCafe-Supremo-Logo.png",
+                        "type": "image"
+                    },
+                    "id": "CafeSupremo_Logo",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "left",
+                        "width": "90%"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "generatedHtml": "<h3>Design Your Lunch {userName}</h3>\n",
+                        "text": "### Design Your Lunch {userName}",
+                        "type": "markdown"
+                    },
+                    "id": "FormHeaderText",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "18px",
+                        "fontStyle": "normal",
+                        "fontWeight": "bold",
+                        "labelClass": "",
+                        "textAlign": "center"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": "Choose the contents of your Lunch from our tasty options"
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "src": "/upload/s3?k=public%2FO49%2Fschema%2FAbuF%2F9fGG%2FWya86kk0CB9l3qN9W7rD_xwjxk90ZL92ccQCHWSbc1LWfMfN-NocGm6ayMt9-JlKVskkgZpuWv2fEg%3D%3D%2FSandwich.jpg",
+                        "type": "image"
+                    },
+                    "id": "HeaderSandwich",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "left",
+                        "width": "80%"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "33%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "src": "/upload/s3?k=public%2FO49%2Fschema%2FSEvK%2FrFp0%2FI6pvMVxkZmhApZc2QeNQU2yWWJ8RzN4pWL_oPQ4WXQ3Pvpxiu9jlojHMbsXr7HDq2O7rXEBJUyaV-Q%3D%3D%2FChickenWrap.jpg",
+                        "type": "image"
+                    },
+                    "id": "HeaderWrap",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "left",
+                        "width": "80%"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "33%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "src": "/upload/s3?k=public%2FO49%2Fschema%2FyHax%2FTahB%2F9hEnoxF8WbpssRpWgrDjMos-IcGxPqISKZ7ZWtO6YdIFO8LvXlOpoHxdfYnRforQlFTo2MfP1sbNEA%3D%3D%2FChickenSub.png",
+                        "type": "image"
+                    },
+                    "id": "HeaderSub",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "left",
+                        "width": "80%"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "33%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "agentCanEdit": false,
+                        "agentMasked": false,
+                        "customerCanEdit": true,
+                        "elementValidation": {
+                            "maxLength": 0,
+                            "maxLengthErrorMessage": "This field does not accept more than {$count} characters.",
+                            "minLength": 0,
+                            "minLengthErrorMessage": "This field requires at least {$count} characters.",
+                            "regex": "",
+                            "regexErrorMessage": "",
+                            "required": false,
+                            "requiredErrorMessage": "This is required",
+                            "snippet": "",
+                            "validateMaxLength": false,
+                            "validateMinLength": false,
+                            "validateRegex": false,
+                            "validateSnippet": false
+                        },
+                        "label": "I want a ...",
+                        "labelInline": false,
+                        "loadOptionsFromAction": false,
+                        "options": [
+                            {
+                                "label": "Sandwich",
+                                "since": 0,
+                                "value": "SANDWICH"
+                            },
+                            {
+                                "label": "Wrap",
+                                "since": 0,
+                                "value": "WRAP"
+                            },
+                            {
+                                "label": "Sub",
+                                "since": 0,
+                                "value": "SUB"
+                            }
+                        ],
+                        "optionsCaption": "Select...",
+                        "required": false,
+                        "type": "select"
+                    },
+                    "id": "ChooseLunchType",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#ccc",
+                        "borderRadius": "4px",
+                        "borderStyle": "solid",
+                        "borderWidth": "1px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "left"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": "Select the Sandwich Type"
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "generatedHtml": "<p>With</p>\n",
+                        "text": "With",
+                        "type": "markdown"
+                    },
+                    "id": "ContentsAreaLabel",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "left"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "6px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "agentCanEdit": false,
+                        "agentMasked": false,
+                        "customerCanEdit": true,
+                        "elementValidation": {
+                            "maxLength": 0,
+                            "maxLengthErrorMessage": "This field does not accept more than {$count} characters.",
+                            "minLength": 0,
+                            "minLengthErrorMessage": "This field requires at least {$count} characters.",
+                            "regex": "",
+                            "regexErrorMessage": "",
+                            "required": false,
+                            "requiredErrorMessage": "This is required",
+                            "snippet": "",
+                            "validateMaxLength": false,
+                            "validateMinLength": false,
+                            "validateRegex": false,
+                            "validateSnippet": false
+                        },
+                        "label": "Cheese",
+                        "required": false,
+                        "selectedIcon": "fa-check-square",
+                        "type": "checkbox",
+                        "unselectedIcon": "fa-square-o"
+                    },
+                    "id": "ChkBox_Cheese",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "left"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "25%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "agentCanEdit": false,
+                        "agentMasked": false,
+                        "customerCanEdit": true,
+                        "elementValidation": {
+                            "maxLength": 0,
+                            "maxLengthErrorMessage": "This field does not accept more than {$count} characters.",
+                            "minLength": 0,
+                            "minLengthErrorMessage": "This field requires at least {$count} characters.",
+                            "regex": "",
+                            "regexErrorMessage": "",
+                            "required": false,
+                            "requiredErrorMessage": "This is required",
+                            "snippet": "",
+                            "validateMaxLength": false,
+                            "validateMinLength": false,
+                            "validateRegex": false,
+                            "validateSnippet": false
+                        },
+                        "label": "Meat",
+                        "required": false,
+                        "selectedIcon": "fa-check-square",
+                        "type": "checkbox",
+                        "unselectedIcon": "fa-square-o"
+                    },
+                    "id": "ChkBox_Meat",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "left"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "25%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "agentCanEdit": false,
+                        "agentMasked": false,
+                        "customerCanEdit": true,
+                        "elementValidation": {
+                            "maxLength": 0,
+                            "maxLengthErrorMessage": "This field does not accept more than {$count} characters.",
+                            "minLength": 0,
+                            "minLengthErrorMessage": "This field requires at least {$count} characters.",
+                            "regex": "",
+                            "regexErrorMessage": "",
+                            "required": false,
+                            "requiredErrorMessage": "This is required",
+                            "snippet": "",
+                            "validateMaxLength": false,
+                            "validateMinLength": false,
+                            "validateRegex": false,
+                            "validateSnippet": false
+                        },
+                        "label": "Salad",
+                        "required": false,
+                        "selectedIcon": "fa-check-square",
+                        "type": "checkbox",
+                        "unselectedIcon": "fa-square-o"
+                    },
+                    "id": "ChkBox_Salad",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "left"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "25%"
+                    },
+                    "since": 0,
+                    "tooltip": "Add something healthy"
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "type": "divider"
+                    },
+                    "id": "Choices_Btm",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#333",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "height": "2px",
+                        "labelClass": "",
+                        "textAlign": "left"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "agentCanEdit": false,
+                        "agentMasked": false,
+                        "customerCanEdit": true,
+                        "elementValidation": {
+                            "maxLength": 0,
+                            "maxLengthErrorMessage": "This field does not accept more than {$count} characters.",
+                            "minLength": 0,
+                            "minLengthErrorMessage": "This field requires at least {$count} characters.",
+                            "regex": "",
+                            "regexErrorMessage": "",
+                            "required": false,
+                            "requiredErrorMessage": "This is required",
+                            "snippet": "",
+                            "validateMaxLength": false,
+                            "validateMinLength": false,
+                            "validateRegex": false,
+                            "validateSnippet": false
+                        },
+                        "inline": true,
+                        "label": "Choose your Cheese...",
+                        "loadOptionsFromAction": false,
+                        "options": [
+                            {
+                                "label": "Cheddar",
+                                "since": 0,
+                                "value": "CHEDDAR"
+                            },
+                            {
+                                "label": "Monterey Jack",
+                                "since": 0,
+                                "value": "MONTEREY_JACK"
+                            },
+                            {
+                                "label": "Brie",
+                                "since": 0,
+                                "value": "BRIE"
+                            },
+                            {
+                                "label": "Swiss",
+                                "since": 0,
+                                "value": "SWISS"
+                            }
+                        ],
+                        "required": false,
+                        "selectedIcon": "fa-check-circle",
+                        "type": "radio",
+                        "unselectedIcon": "fa-circle-o"
+                    },
+                    "id": "Choose_Cheese_Type",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": false,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "left"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "agentCanEdit": false,
+                        "agentMasked": false,
+                        "customerCanEdit": true,
+                        "elementValidation": {
+                            "maxLength": 0,
+                            "maxLengthErrorMessage": "This field does not accept more than {$count} characters.",
+                            "minLength": 0,
+                            "minLengthErrorMessage": "This field requires at least {$count} characters.",
+                            "regex": "",
+                            "regexErrorMessage": "",
+                            "required": false,
+                            "requiredErrorMessage": "This is required",
+                            "snippet": "",
+                            "validateMaxLength": false,
+                            "validateMinLength": false,
+                            "validateRegex": false,
+                            "validateSnippet": false
+                        },
+                        "inline": true,
+                        "label": "Select Your Protein...",
+                        "loadOptionsFromAction": false,
+                        "options": [
+                            {
+                                "label": "Chicken",
+                                "since": 0,
+                                "value": "CHICKEN"
+                            },
+                            {
+                                "label": "Turkey",
+                                "since": 0,
+                                "value": "TURKEY"
+                            },
+                            {
+                                "label": "Roast Beef",
+                                "since": 0,
+                                "value": "BEEF"
+                            },
+                            {
+                                "label": "Ham",
+                                "since": 0,
+                                "value": "HAM"
+                            }
+                        ],
+                        "required": false,
+                        "selectedIcon": "fa-check-circle",
+                        "type": "radio",
+                        "unselectedIcon": "fa-circle-o"
+                    },
+                    "id": "Choose_Meat_Type",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": false,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "left"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "agentCanEdit": false,
+                        "agentMasked": false,
+                        "allVisible": true,
+                        "customerCanEdit": true,
+                        "elementValidation": {
+                            "maxLength": 0,
+                            "maxLengthErrorMessage": "This field does not accept more than {$count} characters.",
+                            "minLength": 0,
+                            "minLengthErrorMessage": "This field requires at least {$count} characters.",
+                            "regex": "",
+                            "regexErrorMessage": "",
+                            "required": false,
+                            "requiredErrorMessage": "This is required",
+                            "snippet": "",
+                            "validateMaxLength": false,
+                            "validateMinLength": false,
+                            "validateRegex": false,
+                            "validateSnippet": false
+                        },
+                        "inline": true,
+                        "label": "Choose the Salad Bits",
+                        "loadOptionsFromAction": false,
+                        "options": [
+                            {
+                                "initiallyChecked": false,
+                                "label": "Lettuce",
+                                "since": 0,
+                                "value": "LETTUCE"
+                            },
+                            {
+                                "initiallyChecked": false,
+                                "label": "Tomato",
+                                "since": 0,
+                                "value": "TOMATO"
+                            },
+                            {
+                                "initiallyChecked": false,
+                                "label": "Olives",
+                                "since": 0,
+                                "value": "OLIVES"
+                            },
+                            {
+                                "initiallyChecked": false,
+                                "label": "Gerkin",
+                                "since": 0,
+                                "value": "GERKIN"
+                            }
+                        ],
+                        "required": false,
+                        "rows": 2,
+                        "type": "picklist"
+                    },
+                    "id": "Choose_Salad_Options",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": false,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#E7E7E7",
+                        "borderRadius": "0px",
+                        "borderStyle": "",
+                        "borderWidth": "",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "left"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "agentCanEdit": false,
+                        "agentMasked": false,
+                        "buttonClass": "InteractiveButton",
+                        "customerCanEdit": true,
+                        "elementValidation": {
+                            "maxLength": 0,
+                            "maxLengthErrorMessage": "This field does not accept more than {$count} characters.",
+                            "minLength": 0,
+                            "minLengthErrorMessage": "This field requires at least {$count} characters.",
+                            "regex": "",
+                            "regexErrorMessage": "",
+                            "required": false,
+                            "requiredErrorMessage": "This is required",
+                            "snippet": "",
+                            "validateMaxLength": false,
+                            "validateMinLength": false,
+                            "validateRegex": false,
+                            "validateSnippet": false
+                        },
+                        "label": "Never Mind!",
+                        "required": false,
+                        "type": "button"
+                    },
+                    "id": "Cancel_Button",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#598EC7",
+                        "borderColor": "#333",
+                        "borderRadius": "3px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#FFFFFF",
+                        "elementClass": "",
+                        "fontSize": "14px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "center",
+                        "width": "100%"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "50%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "agentCanEdit": false,
+                        "agentMasked": false,
+                        "buttonClass": "InteractiveButton",
+                        "customerCanEdit": true,
+                        "elementValidation": {
+                            "maxLength": 0,
+                            "maxLengthErrorMessage": "This field does not accept more than {$count} characters.",
+                            "minLength": 0,
+                            "minLengthErrorMessage": "This field requires at least {$count} characters.",
+                            "regex": "",
+                            "regexErrorMessage": "",
+                            "required": false,
+                            "requiredErrorMessage": "This is required",
+                            "snippet": "",
+                            "validateMaxLength": false,
+                            "validateMinLength": false,
+                            "validateRegex": false,
+                            "validateSnippet": false
+                        },
+                        "label": "Go make it please!",
+                        "required": false,
+                        "type": "button"
+                    },
+                    "id": "Submit_Button",
+                    "initiallyEnabled": false,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#93b547",
+                        "borderColor": "#333",
+                        "borderRadius": "3px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#FFFFFF",
+                        "elementClass": "",
+                        "fontSize": "14px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "center",
+                        "width": "100%"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "50%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                }
+            ],
+            "id": "MySandwichOptions",
+            "validation": {
+                "asYouGo": true,
+                "errorMessage": "Please see errors above before continuing.",
+                "snippet": "",
+                "usingSnippet": false
+            }
+        },
+        {
+            "allowDismiss": false,
+            "elementList": [
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "src": "/upload/s3?k=public%2FO49%2Fschema%2FcoGj%2FirX6%2FAUSCdmm9po9JA8YPKigBSHhK2UdmNkrcfEjA_5efnMJanrXy1zJAK12UVbmUopo7CmZaeyIFIlV5Lw%3D%3D%2FCafe-Supremo-Logo.png",
+                        "type": "image"
+                    },
+                    "id": "CafeSupremo_Logo2",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "left",
+                        "width": "90%"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "type": "divider"
+                    },
+                    "id": "divider_2",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#333",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "height": "3px",
+                        "labelClass": "",
+                        "textAlign": "left"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "generatedHtml": "<p>We're sorry that our Sandwich Wizard didn't have the options you wanted!</p>\n<p>Perhaps something else from our full menu?</p>\n",
+                        "text": "We're sorry that our Sandwich Wizard didn't have the options you wanted!\n\nPerhaps something else from our full menu?",
+                        "type": "markdown"
+                    },
+                    "id": "CancelOrderPrompt",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "15px",
+                        "fontStyle": "normal",
+                        "fontWeight": "bold",
+                        "labelClass": "",
+                        "textAlign": "center"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "type": "divider"
+                    },
+                    "id": "divider_3",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#333",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "height": "3px",
+                        "labelClass": "",
+                        "textAlign": "left"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "generatedHtml": "<p>Click the [X] to close the Wizard and return to the Bot</p>\n",
+                        "text": "Click the [X] to close the Wizard and return to the Bot ",
+                        "type": "markdown"
+                    },
+                    "id": "Cancel_Press_X_Msg",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "center"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": "Click the [X] to close the Wizard and return to the Bot"
+                }
+            ],
+            "id": "Cancel_Order_Pane",
+            "validation": {
+                "asYouGo": true,
+                "errorMessage": "Please see errors above before continuing.",
+                "snippet": "",
+                "usingSnippet": false
+            }
+        },
+        {
+            "allowDismiss": false,
+            "elementList": [
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "src": "/upload/s3?k=public%2FO49%2Fschema%2FdKA-%2FB8JD%2Fg55j-ZLx7cD2G44bSaXuQWVHWW_Kmeh9gMtIF8OxKfG8Fx3XTrsJ_TQqp_xnddsXFDxiUZ6O5IOrQg%3D%3D%2FCafe-Supremo-Logo.png",
+                        "type": "image"
+                    },
+                    "id": "CafeSupremo_Logo3",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "left",
+                        "width": "90%"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "generatedHtml": "",
+                        "text": "",
+                        "type": "markdown"
+                    },
+                    "id": "label_2",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "left"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "type": "divider"
+                    },
+                    "id": "divider_1",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#333",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "height": "3px",
+                        "labelClass": "",
+                        "textAlign": "left"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "generatedHtml": "<p>Thanks for using the Sandwich Design Wizard!</p>\n<p>Your choices have been included in your lunch order...</p>\n<ul>\n<li>{ChooseLunchType}</li>\n<li>{Choose_Cheese_Type}</li>\n<li>{Choose_Meat_Type}</li>\n<li>{Choose_Salad_Options}</li>\n<li>{Choose_Dressing_Type}</li>\n</ul>\n",
+                        "text": "Thanks for using the Sandwich Design Wizard! \n\nYour choices have been included in your lunch order... \n\n - {ChooseLunchType}\n - {Choose_Cheese_Type}\n - {Choose_Meat_Type}\n - {Choose_Salad_Options}\n - {Choose_Dressing_Type}",
+                        "type": "markdown"
+                    },
+                    "id": "OrderConfirmation",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "15px",
+                        "fontStyle": "normal",
+                        "fontWeight": "bold",
+                        "labelClass": "",
+                        "textAlign": "center",
+                        "width": ""
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "type": "divider"
+                    },
+                    "id": "divider_4",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#333",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "height": "3px",
+                        "labelClass": "",
+                        "textAlign": "left"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": ""
+                },
+                {
+                    "actionList": [
+                    ],
+                    "detail": {
+                        "generatedHtml": "<p>Click the [X] to close the Wizard and return to the Bot</p>\n",
+                        "text": "Click the [X] to close the Wizard and return to the Bot ",
+                        "type": "markdown"
+                    },
+                    "id": "Order_Press_X_Msg",
+                    "initiallyEnabled": true,
+                    "initiallyVisible": true,
+                    "innerStyles": {
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#333",
+                        "borderRadius": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "0px",
+                        "color": "#333333",
+                        "elementClass": "",
+                        "fontSize": "13px",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                        "labelClass": "",
+                        "textAlign": "center"
+                    },
+                    "outerStyles": {
+                        "marginBottom": "12px",
+                        "marginLeft": "0",
+                        "marginRight": "0",
+                        "marginTop": "0",
+                        "paddingBottom": "0",
+                        "paddingLeft": "0",
+                        "paddingRight": "0",
+                        "paddingTop": "0",
+                        "width": "100%"
+                    },
+                    "since": 0,
+                    "tooltip": "Click the [X] to close the Wizard and return to the Bot"
+                }
+            ],
+            "id": "Choices_Made_Pane",
+            "validation": {
+                "asYouGo": true,
+                "errorMessage": "Please see errors above before continuing.",
+                "snippet": "",
+                "usingSnippet": false
+            }
+        }
+    ],
+    "externalDataList": [
+        {
+            "allowWrite": false,
+            "id": "userName",
+            "path": "userName",
+            "prefetch": true,
+            "source": "param"
+        }
+    ],
+    "general": {
+        "author": "Unknown",
+        "created": "Tue Nov 28 2017",
+        "icon": "/upload/s3?k=public%2FO49%2Fschema%2FWhpj%2FOXMY%2FQ2krWmHx9951yAEPrqT-HJsuhU9pGaB7vdB3tmT24uc7piJet0zVHJ210B7IqGIvKaxilhWUqLIdbw%3D%3D%2FCafeSupremo-Logo-large.png",
+        "internalDescription": "Used to show how the multiple questions used to design a Sandwich at the CafeSupremo can be replaced with a simple structured data form.",
+        "inviteMessageList": [
+            "Design your Sandwich {link}"
+        ],
+        "name": "CafeSupremo : Design My Lunch",
+        "previewIcon": "/upload/s3?k=public%2FO49%2Fschema%2Fcy4K%2FjqDy%2FSVNU3qJEugyICdc8Pzf682_ToW1Jx997gsPJxRhNmVglG2Qpzig-JfIz3r-YNS1QaajKNEPck2jBrA%3D%3D%2FCafeSupremo.png",
+        "previewText": "Please click on the Link to go to the interact Sandwich design wizard",
+        "windowTitle": "CafeSupremo"
+    },
+    "snippetList": [
+    ],
+    "version": 7
+}

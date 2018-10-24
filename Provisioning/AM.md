@@ -88,4 +88,4 @@ The Oracle Mobile Cloud is now fully provisioned.  If you have not yet provision
 
 
 
-<< [Back to Oracle Digital Assistant Test Drive Home](../README.md)
+<< [Back to Digital Assistant Test Drive Home](../README-IBCS.md)

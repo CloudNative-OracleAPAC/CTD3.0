@@ -30,19 +30,22 @@ This workshop will walk you introduce you to the CafeSupremo Bot, and then walk 
 # Pre-Requisite #
 This Cloud Test Drive Workshop is designed to work with your own Autonomous Cloud Subscription. If you have Activated your account, but have not yet provisioned your Digital Assistant / Chatbot environment, please review the [Provisioning Steps](Provisioning/Provisioning.md). 
 
-# Lab Exercise: #
+# Lab Exercises: #
 
-#### Lab 1: Introduction to Cafe Supremo Intelligent Bot [(Start Lab)](100-IB.md) #### 
-#### Lab 2: Building a Bot [(Start Lab)](200-IB.md) ####
-#### Lab 3: Custom Components [(Start Lab)](300-IB.md) ####
-#### Lab 4: Instant Apps for Structured Data [(Start Lab)](400-IB.md) ####
-#### Lab 5: (OPTIONAL) Exposing the Bot in Facebook [(Start Lab)](500-IB.md) ####
+#### 1: Introduction to the Cafe Supremo Digital Assistant [(Start)](100-IB.md) ####
+#### 2: Building a Bot [(Start)](200-IB.md) ####
+#### 3: Custom Components [(Start)](300-IB.md) ####
+#### 4: Instant Apps for Structured Data [(Start)](400-IB.md) ####
+
+#### OPTIONAL Labs - Exposing the Digital Assistant within different User interfaces. ####
+- 5: Within a Web Page [(Start)](500-IB.md)
+- 6: Via Facebook Messenger [(Start)](600-IB.md)
 
 ## Lab Files ##
-
-1. [Intents, Entities and Utterances for FoodMenu Bot](Lab_Files/Intents-And-Entities.zip)
-2. [OBotML dialogue flow markup for ordering Food](Lab_Files/DialogYAML.zip)
-3. [Custom Component Template](Lab_Files/Custom-Component-Template.zip)
+- [Intents, Entities and Utterances for FoodMenu Bot](Lab_Files/Intents-And-Entities.zip)
+- [OBotML dialogue flow markup for ordering Food](Lab_Files/DialogYAML.zip)
+- [Custom Component Template](Lab_Files/Custom-Component-Template.zip)
+- [Web Application](Lab_Files/CTD3.0-CafeSupremo-Web.zip)
 
 
 
