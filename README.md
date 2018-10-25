@@ -23,6 +23,6 @@ Oracle Visual Builder Cloud Service is a cloud-based software development Platfo
 
 # Lab Resources
 
-- [Section A: CloudNative_IntelligentBot](README-IBCS.md)
+- [Section A: CloudNative_IntelligentBot](README-ODA.md)
 - [Section B: CloudNative_CECS](README-CECS.md)
 - [Section C: CloudNative_VBCS](https://docs.oracle.com/en/cloud/paas/app-builder-cloud/tutorials.html)
