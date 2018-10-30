@@ -1,0 +1,122 @@
+/* .submit-button button {
+    margin-left: 70px;
+} */
+p{
+    font-size: 18px;
+}
+
+body {
+    padding: 0 10px;
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+#configuration-form {
+    margin-top: 20%;
+}
+
+#loader {
+    position: absolute;
+    top: 42%;
+    left: 44%;
+    display: none;
+    z-index: 2;
+}
+
+.mcs-logo img{
+    width: 20%;
+}
+
+#appId {
+    margin-left: 5px;
+}
+
+.form-signin-heading {
+    color: #676767;
+    margin-left: 10px;
+}
+
+.app-id{
+    margin-top: 10%;
+    margin-bottom: 10px;
+}
+
+.app-id-note {
+    margin-top: 10px;
+    visibility: hidden;
+    text-align: left;
+}
+
+.app-id .form-control:focus + .app-id-note {
+    visibility: visible;
+}
+
+.footer-logo {
+    margin-top: 20%
+}
+
+.footer-logo img {
+    width: 35%;
+}
+
+.welcome {
+    margin-top: 40px;
+}
+
+.app-header {
+    padding: 10px 0;
+    background: #ddd;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.app-title {
+    text-align: center;
+}
+
+.settings-appId-note {
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: left;
+    visibility: visible;
+}
+
+.settings-icon {
+    width: 60%;
+}
+
+#chatWindow {
+    display: none;
+}
+.error{
+    color: red;
+    display: none;
+}
+
+.button-row{
+    margin-top: 10px;
+}
+
+@media only screen and (min-width: 500px) {
+    #configuration-form {
+        margin-top: 10%;
+    }
+    .footer-logo {
+        margin-top: 10%;
+        margin-bottom: 5%;
+    }
+
+    #loader {
+        left: 48%;
+    }
+
+    .settings-icon {
+        width: 15%;
+    }
+}
