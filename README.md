@@ -1,6 +1,6 @@
 
 
-# ORACLE Cloud Test Drive 3.5
+# ORACLE Cloud Test Drive 3.0
 
 ## Introduction
 
