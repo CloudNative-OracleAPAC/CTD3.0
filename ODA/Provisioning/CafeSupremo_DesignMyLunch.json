@@ -118,57 +118,16 @@
             "trigger": "value",
             "triggerValue": "false",
             "type": "resetElements"
-        },
-        {
-            "elementTrigger": "Submit_Button",
-            "enabled": true,
-            "eventTrigger": "valueChanged",
-            "parameters": [
-                {
-                    "name": "ORDER_ACTION",
-                    "value": "SUCCESS"
-                },
-                {
-                    "name": "SANDWICH_TYPE",
-                    "value": "{ChooseLunchType}"
-                },
-                {
-                    "name": "CHEESE",
-                    "value": "{Choose_Cheese_Type}"
-                },
-                {
-                    "name": "MEAT",
-                    "value": "{Choose_Meat_Type}"
-                },
-                {
-                    "name": "SALAD",
-                    "value": "{Choose_Salad_Options}"
-                },
-                {
-                    "name": "DRESSING",
-                    "value": "{Choose_Dressing_Type}"
-                }
-            ],
-            "trigger": "always",
-            "type": "exitToBot"
-        },
-        {
-            "elementTrigger": "Submit_Button",
-            "enabled": true,
-            "eventTrigger": "valueChanged",
-            "pane": "Choices_Made_Pane",
-            "trigger": "always",
-            "type": "activatePane"
         }
     ],
     "chatbox": {
         "active": true,
-        "apiId": "CafeSupremo__Design_My_Lunch",
-        "build": 1,
+        "apiId": "cafesupremo__design_my_lunch",
+        "build": 2,
         "builder": {
-            "editCount": 10
+            "editCount": 2
         },
-        "id": 26,
+        "id": 52,
         "tagList": [
         ],
         "trashed": false
@@ -228,7 +187,7 @@
                     "initiallyEnabled": true,
                     "initiallyVisible": true,
                     "innerStyles": {
-                        "backgroundColor": "#FFFFFF",
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
                         "borderColor": "#333",
                         "borderRadius": "0px",
                         "borderStyle": "solid",
@@ -461,7 +420,7 @@
                     "initiallyEnabled": true,
                     "initiallyVisible": true,
                     "innerStyles": {
-                        "backgroundColor": "#FFFFFF",
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
                         "borderColor": "#333",
                         "borderRadius": "0px",
                         "borderStyle": "solid",
@@ -520,7 +479,7 @@
                     "initiallyEnabled": true,
                     "initiallyVisible": true,
                     "innerStyles": {
-                        "backgroundColor": "#FFFFFF",
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
                         "borderColor": "#333",
                         "borderRadius": "0px",
                         "borderStyle": "solid",
@@ -579,7 +538,7 @@
                     "initiallyEnabled": true,
                     "initiallyVisible": true,
                     "innerStyles": {
-                        "backgroundColor": "#FFFFFF",
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
                         "borderColor": "#333",
                         "borderRadius": "0px",
                         "borderStyle": "solid",
@@ -638,7 +597,7 @@
                     "initiallyEnabled": true,
                     "initiallyVisible": true,
                     "innerStyles": {
-                        "backgroundColor": "#FFFFFF",
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
                         "borderColor": "#333",
                         "borderRadius": "0px",
                         "borderStyle": "solid",
@@ -759,7 +718,7 @@
                     "initiallyEnabled": true,
                     "initiallyVisible": false,
                     "innerStyles": {
-                        "backgroundColor": "#FFFFFF",
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
                         "borderColor": "#333",
                         "borderRadius": "0px",
                         "borderStyle": "solid",
@@ -842,7 +801,7 @@
                     "initiallyEnabled": true,
                     "initiallyVisible": false,
                     "innerStyles": {
-                        "backgroundColor": "#FFFFFF",
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
                         "borderColor": "#333",
                         "borderRadius": "0px",
                         "borderStyle": "solid",
@@ -929,7 +888,7 @@
                     "initiallyEnabled": true,
                     "initiallyVisible": false,
                     "innerStyles": {
-                        "backgroundColor": "#FFFFFF",
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
                         "borderColor": "#E7E7E7",
                         "borderRadius": "0px",
                         "borderStyle": "",
@@ -1076,6 +1035,19 @@
                 }
             ],
             "id": "MySandwichOptions",
+            "innerStyles": {
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "backgroundImage": "",
+                "borderColor": "#333",
+                "borderRadius": "0px",
+                "borderStyle": "solid",
+                "borderWidth": "0px",
+                "color": "#333333",
+                "fontSize": "13px",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+                "textAlign": "left"
+            },
             "validation": {
                 "asYouGo": true,
                 "errorMessage": "Please see errors above before continuing.",
@@ -1175,7 +1147,7 @@
                     "initiallyEnabled": true,
                     "initiallyVisible": true,
                     "innerStyles": {
-                        "backgroundColor": "#FFFFFF",
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
                         "borderColor": "#333",
                         "borderRadius": "0px",
                         "borderStyle": "solid",
@@ -1252,7 +1224,7 @@
                     "initiallyEnabled": true,
                     "initiallyVisible": true,
                     "innerStyles": {
-                        "backgroundColor": "#FFFFFF",
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
                         "borderColor": "#333",
                         "borderRadius": "0px",
                         "borderStyle": "solid",
@@ -1281,6 +1253,19 @@
                 }
             ],
             "id": "Cancel_Order_Pane",
+            "innerStyles": {
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "backgroundImage": "",
+                "borderColor": "#333",
+                "borderRadius": "0px",
+                "borderStyle": "solid",
+                "borderWidth": "0px",
+                "color": "#333333",
+                "fontSize": "13px",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+                "textAlign": "left"
+            },
             "validation": {
                 "asYouGo": true,
                 "errorMessage": "Please see errors above before continuing.",
@@ -1342,7 +1327,7 @@
                     "initiallyEnabled": true,
                     "initiallyVisible": true,
                     "innerStyles": {
-                        "backgroundColor": "#FFFFFF",
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
                         "borderColor": "#333",
                         "borderRadius": "0px",
                         "borderStyle": "solid",
@@ -1419,7 +1404,7 @@
                     "initiallyEnabled": true,
                     "initiallyVisible": true,
                     "innerStyles": {
-                        "backgroundColor": "#FFFFFF",
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
                         "borderColor": "#333",
                         "borderRadius": "0px",
                         "borderStyle": "solid",
@@ -1497,7 +1482,7 @@
                     "initiallyEnabled": true,
                     "initiallyVisible": true,
                     "innerStyles": {
-                        "backgroundColor": "#FFFFFF",
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
                         "borderColor": "#333",
                         "borderRadius": "0px",
                         "borderStyle": "solid",
@@ -1526,6 +1511,19 @@
                 }
             ],
             "id": "Choices_Made_Pane",
+            "innerStyles": {
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "backgroundImage": "",
+                "borderColor": "#333",
+                "borderRadius": "0px",
+                "borderStyle": "solid",
+                "borderWidth": "0px",
+                "color": "#333333",
+                "fontSize": "13px",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+                "textAlign": "left"
+            },
             "validation": {
                 "asYouGo": true,
                 "errorMessage": "Please see errors above before continuing.",
