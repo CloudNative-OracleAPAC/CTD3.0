@@ -1,6 +1,6 @@
 # ORACLE Cloud Test Drive #
 
-## Oracle Intelligent Bot Platform ##
+## Oracle Digital Assistant ##
 
 ### Introduction ###
 With each generation of users, there is a significant shift in how they communicate with each other and with organisations with whom they interact and do business. While much of the community may still rely on Telephone conversations and/or the use of Web or Mobile Apps to interact with an organisation, there is a significant portion of the community where their “on-line” experience is via a chat channel (such as talking to their friends over Skype or the like).    Hence while the mobile device has continued to be the “first-screen” they turn to, it is frequently a Chat app that they end up using. 
