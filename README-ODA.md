@@ -36,9 +36,10 @@ This Cloud Test Drive Workshop is designed to work with your own Autonomous Clou
 #### 2: Building a Bot [(Start)](ODA/200-IB.md) ####
 #### 3: Custom Components [(Start)](ODA/300-IB.md) ####
 #### 4: Instant Apps for Structured Data [(Start)](ODA/400-IB.md) ####
+#### 5: Exposing the Digital Assistant within a Web Page [(Start)](ODA/500-IB.md)
 
-#### OPTIONAL Labs - Exposing the Digital Assistant within different User interfaces. ####
-- 5: Within a Web Page [(Start)](ODA/500-IB.md)
+#### OPTIONAL Labs - Exposing the Digital Assistant within Social Channels. ####
+
 - 6: Via Facebook Messenger [(Start)](ODA/600-IB.md)
 
 ## Lab Files ##
